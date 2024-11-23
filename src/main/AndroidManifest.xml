@@ -29,7 +29,7 @@
         <activity android:name=".WeatherActivity"></activity>
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDOPDhG0s5T_R2_gtly6NdhpvETH331juE"/>
+            android:value="삭제."/>
     </application>
 
 
